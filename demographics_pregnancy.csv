@@ -1,0 +1,52 @@
+GUT.Kit.number,Study.ID,BC_RACEMOM,Mom_age_Years,Sample_Transit_Time_days,mom_Prepreg_BMI,E_ever_smoked,E_children_given_birth_to_inc_current,E_times_taken_abx_past_year,E_abx_names,ASIF_taken_Abx_past_mos,ASIF_curr_taking_abx
+1,F,White,37.4,5,31.8,1,6,2,,0,0
+2,AY,White,26.4,5,36,1,6,0,,0,0
+3,AU,White,34.5,5,23.4,0,1,0,,0,0
+11,K,White,26,4,25.1,NA,2,NA,,0,0
+14,AM,Black or African American,26.6,5,36.6,1,2,1,amoxicillin,0,0
+16,B_AG,White,28.1,8,28.3,1,1,0,,0,0
+18,B_I,White,22.4,6,25.9,0,2,0,,0,0
+19,T,White,33.3,1,23.7,0,2,0,,0,0
+20,U,Black or African American,27.2,5,25.8,0,2,NA,,0,0
+22,B_AI,White,NA,0,27.3,0,1,0,,0,0
+23,AD,White,34.1,3,22.3,1,1,1,amoxicillin,0,0
+25,B_AF,White,30.6,4,22,0,2,0,,0,0
+26,B_AL,Black or African American,37.5,3,25.8,0,2,1,amoxicillin,0,0
+27,B_A,White,32.5,3,24.4,1,2,0,,0,0
+28,B_AQ,White,37.6,3,25.7,0,1,0,,0,0
+29,B_AH,White,21.6,6,40.3,1,1,3,,0,0
+30,B_E,White,38.6,6,30.6,0,2,0,,0,0
+33,N,White,31.1,6,30.8,1,1,0,,0,0
+34,B_AA,White,33.6,7,22.5,0,2,3,"amoxicillin, cipro",0,1
+36,B_Z,White,35.7,4,20.7,0,2,0,,0,0
+37,V,White,31.5,2,27.5,0,2,0,,0,0
+38,Q,White,30.5,1,24.3,0,3,0,,0,0
+39,Y,White,28.5,3,31.8,0,2,0,,0,0
+40,H,White,34.6,4,23.3,0,1,0,,0,0
+41,AR,White,36.6,4,34.1,0,1,0,,0,0
+42,L,White,36.3,1,23,1,2,0,,0,0
+43,M,White,36.2,2,32.5,0,2,1,,0,0
+44,G,White,24.2,7,33.5,1,2,2,,0,0
+45,P,White,35.1,7,21.6,1,5,1,,0,0
+46,O,White,27.6,3,22.6,0,2,0,,0,0
+49,R,White,30.6,2,32.3,0,3,0,,0,0
+50,AJ,White,31.1,4,36.6,0,2,0,,0,0
+51,AT,White,29.7,3,38.6,1,1,1,,0,0
+52,AO,Asian,29.3,5,26.3,0,1,0,,0,0
+54,W,White,31.5,4,34,1,6,0,,0,0
+55,S,White,31.8,4,34.8,0,2,1,,0,0
+56,B_AP,White,30.8,4,24.7,0,1,0,,0,0
+57,AW,Black or African American,25.8,4,27.4,0,1,0,,0,0
+60,B_AB,Black or African American,24.9,11,29.9,1,3,3,,0,0
+62,X,White,30.7,5,37.8,1,1,0,,0,0
+63,B_AE,White,28.2,5,30.2,1,2,3,,0,0
+64,B_J,White,37.3,2,38.8,0,2,0,,0,0
+65,B_AX,White,NA,2,20.2,0,1,1,,0,0
+66,B_B,White,NA,7,21,0,3,0,,0,0
+67,B_D,White,NA,5,29.1,1,5,1,,0,0
+68,B_C,White,NA,6,24.7,1,2,0,,0,0
+69,AZ,NA,34.8,4,54.9,1,1,1,,NA,0
+71,BC,NA,22.3,12,19,1,1,1,,NA,0
+72,BA,NA,27.5,2,17.3,1,2,1,,NA,0
+74,BD,NA,28.2,4,38.4,0,2,0,,0,0
+77,BB,NA,28.7,6,28.4,1,4,1,,0,0
